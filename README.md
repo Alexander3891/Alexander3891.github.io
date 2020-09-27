@@ -1,2 +1,2 @@
-# Александр Скрыпник
+# Olexander Skrypnyk
 HTML CSS
