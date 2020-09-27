@@ -1,2 +1,2 @@
-# Olexander Skrypnyk
+# Alexander Skrypnyk
 HTML CSS
